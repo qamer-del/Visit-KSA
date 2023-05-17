@@ -1,0 +1,159 @@
+{
+  "destinations": [
+    {
+      "name": "Dammam",
+      "slug": "dammam",
+      "image": "dammam.jpg",
+      "id": 1,
+      "description":
+        " Dammam  is the fifth-most populous city in Saudi Arabia after Riyadh, Jeddah, Mecca, and MedinaIt is the capital of the Eastern Province. With a total population of 1,252,523 as of 2020. The judicial and administrative bodies of the province, in addition to the administrative offices of other minor governmental departments functioning within the province, are located in the city.[1] The word itself is generally used to refer to the city but may also refer to its eponymous governorate",
+
+        
+      "experiences": [
+        {
+          "name": "  Al Khobar",
+          "slug": "Khobar",
+          "image": "khobar.jpg",
+          "description":
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        },
+        {
+          "name": "Morjan Isalnd",
+          "slug": "morjan",
+          "image": "morjan.jpg",
+          "description":
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+          "name": "The Halfmoon betch",
+          "slug": "halfmoon",
+          "image": "halfmoon.jpg",
+          "description":
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+          "name": "Zoo",
+          "slug": "zoo",
+          "image": "Zoo.jpg",
+          "description":
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        }
+      ]
+    },
+    {
+      "name": "Riyadh",
+      "slug": "riyadh",
+      "image": "riyadh.jpg",
+      "id": 2,
+      "description":
+        "Riyadh, Saudi Arabia’s capital and main financial hub, is on a desert plateau in the country’s center. Business district landmarks include the 302m-high Kingdom Centre, with a sky bridge connecting 2 towers, and 267m-high Al Faisaliah Centre, with a glass-globe summit. In the historical Deira district, Masmak Fort marks the site of the 1902 raid that gave the Al Sauds control of Riyadh.",
+      "experiences": [
+        {
+          "name": "Kingdom Centre Tower",
+          "slug": "tower",
+          "image": "kingdom-centre-tower.jpg",
+          "description":
+            "This is the tallest building of KSA featuring shopping malls, residential units and offices.."
+        },
+        {
+          "name": "Al Rajhi Mosque in Riyadh",
+          "slug": "mosque",
+          "image": "al-rajhi-grand-mosque.jpg",
+          "description":
+            "One of the most famous and largest mosques in the city of Riyadh, was opened by king salman bin Abdulaziz when he was the prince of Riyadh, and that was on Sunday 12 Shaaban 1425. Al Rajhi mosque is considered one of the most prominent landmarks in the region, and it is one of the largest mosques in the Arab world."
+        },
+        {
+          "name": "King Abdulaziz Historical",
+          "slug": "historical",
+          "image": "king-abdulaziz-historical.jpg",
+          "description":
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+             
+        },
+        {
+          "name": "Riyadh Park Mall",
+          "slug": "mall",
+          "image": "riyadh-park-mall.jpg",
+          "description":
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        }
+      ]
+    },
+    {
+      "name": "Madina",
+      "slug": "madina",
+      "image": "madinah.jpeg",
+      "id": 3,
+      "description":
+        "Medina is a city in western Saudi Arabia. In the city center, the vast Al-Masjid an-Nabawi (Prophet's Mosque) is a major Islamic pilgrimage site. Its striking Green Dome rises above the tombs of the Prophet Muhammad and early Islamic leaders Abu Bakr and Umar.",
+      "experiences": [
+        {
+          "name": "AL Masjid Al Nabvi",
+          "slug": "masged",
+          "image": "masjid-al-nabvi.jpg",
+          "description":
+            "It was the third mosque built in the history of Islam,[a] and is now one of the largest mosques in the world."
+        },
+        {
+          "name": "Masjid Quba",
+          "slug": "quba",
+          "image": "mosquee-de-quba.jpg",
+          "description":
+            "This is the first mosque in the history of Islam whose foundation stone was laid down by Prophet Muhammad (peace be upon him) himself on his migration to Madinah. To offer 2 raka'ats of nafl in it is equal to one Umrah. After visiting the Prophet’s Mosque and his tomb every pilgrim should try his best to visit it and pray in this mosque as well"
+        },
+        {
+          "name": "Jannatul Baqi",
+          "slug": "Baqi",
+          "image": "photo6jpg.jpg",
+          "description":
+            "This historical burial ground is an intersection of renowned Islamic religious figures, and its contemporary function as an everyday cemetery for the people of Madinah.It has a tranquility and serenity that are felt throughout the city of our Prophet Mohammed (PBUH).The stark reminder of our equality as persons regardless of rank or social standing is conveyed by the simplicity of the graves without tombstones which are aligned to Muslim rites and teachings.One is reminded that it is from Allah Almighty that we come; and indeed to Almighty Allah we return when we die.Supplications offered focus on our individual mortality despite this being the site where persons of the highest of ranks in our Islamic history are buried.Ya Allah, Ameen!"
+        },
+        {
+          "name": "Masjid Al Qiblatayn",
+          "slug": "Qiblatayn",
+          "image": "pic-1.jpg",
+          "description":
+            "The Mosque of the Two Qiblas, is where its believed prophet Mohammad (peace be upon him) received the command to change the direction of prayer (qibla) from Jerusalem to Mecca.The entire congregation during a prayer changed direction and it was the first and only time women stood in front of men during a prayer.If your a women try to go after prayer times when they are cleaning they will usually let you in the men section then, when prayers over and your can see the Mihrab."
+        }
+      ]
+    },
+    {
+      "name": "Mekkah",
+      "slug": "mk",
+      "image": "mekkah.jpg",
+      "id": 4,
+      "description":
+        "Mecca, in a desert valley in western Saudi Arabia, is Islam’s holiest city, as it’s the birthplace of the Prophet Muhammad and the faith itself. Only Muslims are allowed in the city, with millions arriving for the annual Hajj (pilgrimage). Dating from the 7th century, the central Masjid al-Haram (Sacred Mosque) surrounds the Kaaba, the cloth-covered cubic structure that’s Islam’s most sacred shrine",
+      "experiences": [
+        {
+          "name": "Great Mosque of Mecca",
+          "slug": "Great",
+          "image": "picture-of-masjid-al.jpg",
+          "description":
+            "The Kaaba also referred to as al-Kaʿbah al-Musharrafah. 'Holy Ka'bah'), is a building at the center of Islam's most important mosque, Great Mosque of Mecca 'The Sacred Mosque', in city of Mecca, Saudi Arabia. It is the most sacred site in Islam. It is considered by Muslims to be the Bait ul Allah, Its location determines the qiblah ,direction of prayer(Namaz). Wherever they are in the world, Muslims are expected to face the Kaaba when performing Salah (Namaz), the Islamic prayer."
+        },
+        {
+          "name": "Abraj Al-Bait Towers",
+          "slug": "Abraj",
+          "image": "morning.jpg",
+          "description":
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+          "name": "Jabal al-Nour",
+          "slug": "Jabal",
+          "image": "jabal-al-noor-mountain.jpg",
+          "description":
+            "Ghar-Hira or (Cave of Hira). The Cave, thesanctum of the Holy Prophet Muhammad (Peace Be upon Him), the place of His devotions and mediations and the sacred spot where the Holy Quran began to reveal. The Cave is situated on mount Al - Noor on way to Mina near Makkah and its peak is visible from a great distance. Muhammad (P.B.U.H) had just stepped into the forty first year of his life, when during a night in the month of Ramadan the first 5 verses of the Sura Al Alaque were revealed to him from GOD through the angel Gabriel."
+        },
+        {
+          "name": "Jabal-e-Rehmat",
+          "slug": "Rehmat",
+          "image": "pemandangan-dari-atas.jpg",
+          "description":
+            "Located in Arafah, Jabal Rahmah holds a significant meaning as this was the location reportedly where Prophet Adam A.S. and Hawa A.S. were reunited and also where Prophet Muhammad S.A.W. delivered his final sermon of his final Hajj. Please use the stairs on the far side to climb the site rather than traversing on the rocky steep side of the mountain. Beware of the touts getting you to buy souvenirs and offering photography service and charging an exorbitant amount for a low quality Polaroid photo of you."
+        }
+      ]
+    }
+  ]
+}
